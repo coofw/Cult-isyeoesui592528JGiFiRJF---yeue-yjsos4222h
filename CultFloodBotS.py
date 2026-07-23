@@ -10,7 +10,7 @@ from telebot.handler_backends import State, StatesGroup
 from telebot.storage import StateMemoryStorage
 
 # ========== КОНФИГ ==========
-BOT_TOKEN = "8657823190:AAHBJt43cMQd5wCZE5IyPvRmtp7xN0NUs84"
+BOT_TOKEN = "8657823190:AAGnRfCu1ePgU4fbLEI2tsWVxdNbgDhl3Mk"
 MASTER_ADMIN_IDS = [8484944484]  # Твой ID (владелец)
 CHAT_INVITE_LINK = "https://t.me/+rqod3GyElkwxYzYy"
 DB_PATH = "cult_flood.db"
